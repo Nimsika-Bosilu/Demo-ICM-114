@@ -1,2 +1,6 @@
 git config --global user.email "nbosilu@gmail.com"
   git config --global user.name "Nimsika-Bosilu"
+
+git add .
+$ git commit -m "my second commit"
+$ git push -u origin main
